@@ -32,7 +32,7 @@ def gmailLogin():
     driver.find_element_by_class_name("VfPpkd-RLmnJb").click()
     time.sleep(1)
 
-    driver.find_element_by_class_name("whsOnd").send_keys("chapman1023")
+    driver.find_element_by_class_name("whsOnd").send_keys("password")
     time.sleep(.5)
     driver.find_element_by_class_name("VfPpkd-RLmnJb").click()
 
