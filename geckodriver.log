@@ -1,0 +1,28 @@
+1603135800398	geckodriver	INFO	Listening on 127.0.0.1:56690
+1603135928780	geckodriver	INFO	Listening on 127.0.0.1:56802
+1603135929821	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0p/t55f5t150hv1sqqwhrm_md340000gn/T/rust_mozprofileJZPEAs"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603135932078	Marionette	INFO	Listening on port 56814
+1603135932097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603135938319	Marionette	INFO	Stopped listening on port 56814
+1603135952749	geckodriver	INFO	Listening on 127.0.0.1:56863
+1603135952758	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0p/t55f5t150hv1sqqwhrm_md340000gn/T/rust_mozprofileqOOjLC"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603135954839	Marionette	INFO	Listening on port 56872
+1603135954941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603135960314	Marionette	INFO	Stopped listening on port 56872
+1603135983083	geckodriver	INFO	Listening on 127.0.0.1:56955
+1603135984103	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0p/t55f5t150hv1sqqwhrm_md340000gn/T/rust_mozprofileLI1vIS"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603135986246	Marionette	INFO	Listening on port 56966
+1603135986272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13415, Chrome_ChildThread] WARNING: pipe error: Socket is not connected: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 659
+Exiting due to channel error.
